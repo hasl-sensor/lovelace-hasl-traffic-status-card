@@ -2,6 +2,7 @@
 [![ha_version](https://img.shields.io/badge/home%20assistant-0.92%2B-yellow.svg)](https://www.home-assistant.io)
 [![version](https://img.shields.io/badge/version-2.3.0-green.svg)](#)
 [![maintained](https://img.shields.io/maintenance/yes/2019.svg)](#)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # SL Traffic Status Lovelace Card
 Present traffic status from HASL Combination sensors.
