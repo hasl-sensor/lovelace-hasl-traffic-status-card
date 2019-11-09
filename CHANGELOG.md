@@ -3,7 +3,7 @@
 Changelog for HASL traffic status card
 
 
-## [2.3.0] (2019-11-05)
+## [2.3.0] (2019-11-09)
 
 ### Changed
 - Migrated to HACS
