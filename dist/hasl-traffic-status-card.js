@@ -1,6 +1,7 @@
 const lang = {
   'sv-SE': {
-    entity_missing: 'Ingen data hittades', bus: 'Buss',
+    entity_missing: 'Ingen data hittades', 
+    bus: 'Buss',
     metro: 'Tunnelbana',
     light_railway: 'Lokalbana',
     commuter_train: 'Pendeltåg',
@@ -15,7 +16,16 @@ const lang = {
     commuter_train: 'Commuter Train',
     tram: 'Tram',
     ferry: 'Ferry'
-  }
+  },
+  'fr-FR': {
+    entity_missing: 'Aucune info trouvée',
+    bus: 'Bus',
+    metro: 'Métro',
+    light_railway: 'Train local',
+    commuter_train: 'Train régional',
+    tram: 'Trammay',
+    ferry: 'Bateau'
+  }  
 }
 
 class HASLTrafficStatusCard extends HTMLElement {
