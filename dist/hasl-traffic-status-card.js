@@ -15,7 +15,16 @@ const lang = {
     commuter_train: 'Commuter Train',
     tram: 'Tram',
     ferry: 'Ferry'
-  }
+  },
+  'fr-FR': {
+    entity_missing: 'Aucune info trouv&eacute;e',
+    bus: 'Bus',
+    metro: 'M&eacute;tro',
+    light_railway: 'Train local',
+    commuter_train: 'Train r&eacute;gional',
+    tram: 'Trammay',
+    ferry: 'Bateau'
+  }   
 }
 
 class HASLTrafficStatusCard extends HTMLElement {
