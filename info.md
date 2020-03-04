@@ -35,7 +35,7 @@ cards:
 
 - **show_cardname**: Render card name, default `true`
 
-- **language** (*Optional*): The texts will be rendered in this language. Can be one of `sv-SE` or `en-EN`
+- **language** (*Optional*): The texts will be rendered in this language. Can be one of `sv-SE`, `en-EN` or `fr-FR`
 
 - **show_time** (*Optional*): Render the time beside the name of the card, default `false`
 

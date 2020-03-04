@@ -3,6 +3,11 @@
 Changelog for HASL traffic status card
 
 
+## [2.3.1] (2020-03-04)
+
+### Changed
+- Added french translation
+
 ## [2.3.0] (2019-11-09)
 
 ### Changed
@@ -22,4 +27,5 @@ Changelog for HASL traffic status card
 
 [keep-a-changelog]: http://keepachangelog.com/en/1.0.0/
 [Unreleased]: https://github.com/hasl-platform/lovelace-hasl-traffic-status-card/compare/master...dev
-[2.3.0]: https://github.com/hasl-platform/lovelace-hasl-traffic-status-card/
+[2.3.0]: https://github.com/hasl-platform/lovelace-hasl-traffic-status-card/releases/tag/v2.3.0
+[2.3.1]: https://github.com/hasl-platform/lovelace-hasl-traffic-status-card/releases/tag/v2.3.1

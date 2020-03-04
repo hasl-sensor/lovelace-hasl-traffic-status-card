@@ -1,7 +1,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 [![ha_version](https://img.shields.io/badge/home%20assistant-0.92%2B-yellow.svg)](https://www.home-assistant.io)
-[![version](https://img.shields.io/badge/version-2.3.0-green.svg)](#)
-[![maintained](https://img.shields.io/maintenance/yes/2019.svg)](#)
+[![version](https://img.shields.io/badge/version-2.3.1-green.svg)](#)
+[![maintained](https://img.shields.io/maintenance/yes/2020.svg)](#)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # SL Traffic Status Lovelace Card
@@ -41,7 +41,7 @@ cards:
 
 - **show_cardname**: Render card name, default `true`
 
-- **language** (*Optional*): The texts will be rendered in this language. Can be one of `sv-SE` or `en-EN`
+- **language** (*Optional*): The texts will be rendered in this language. Can be one of `sv-SE`, `en-EN` or `fr-FR`
 
 - **show_time** (*Optional*): Render the time beside the name of the card, default `false`
 
